@@ -3,5 +3,5 @@ These are various regression models to predict the price of Airbnb listings in M
 The script consists of EDA and data visualisations performed on the dataset.
 
 No special packages are required to run the script.
-Adapted from [
+Adapted from [NYC Airbnb Price Prediction](https://www.kaggle.com/duygut/airbnb-nyc-price-prediction).
 
