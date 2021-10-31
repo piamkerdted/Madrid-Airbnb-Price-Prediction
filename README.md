@@ -1,2 +1,3 @@
 # Madrid-Airbnb-Price-Prediction
-Various regression models to predict the price of Airbnb lodgings in Madrid
+Built various regression models to predict the price of Airbnb listings in Madrid. The goal is to choose the best price prediction model. 
+
